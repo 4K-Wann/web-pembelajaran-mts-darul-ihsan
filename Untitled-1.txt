@@ -1,0 +1,72 @@
+1.Perangkat keras komputer seperti yang tertera di bawah,kecuali.... 
+A.monitor 
+B.windows 
+C.mouse 
+D.printer
+2.Di bawah ini yang merupakan fungsi dari printer adalah....
+A.pencetak data atau dokumen hasil
+B.pemrogram data hasil
+C.alat tik naskah 
+D.penyimpan data
+3.CPU merupakan perangkat keras komputer yang mempunyai kepanjangan....
+A.central program unit  
+B.centra primary unit
+C.central processing unit
+D.control processing unit
+4.Prosesor merupakan alat pemroses setiap intruksi yang masuk.Prosesor terbagi atas....
+A.ALU dan CE
+B.ALU dan CU
+C.ALI dan CU
+D.ALU dan CPU
+5.Berikut bagian dari memori yag benar....
+A.RAM dan REM C.RAM dan RWQ B.ROM dan RAM D.RIM dan ROM
+6. Kepanjangan dari ROM adalah....
+A.Random Only Memory
+C.Random Obligated Memory
+B.Rabdom Onstenly Memory
+D.Read Only Memory
+7.Berikut ini merupakan fungsi dari keyboard yang benar,yaitu....
+A.papan tik input data
+C.papan software
+B.papan naskah
+D.papan huruf
+8.Berikut ini merupakanbagian keyboard yang berfungsi memberi jarak antar huruf atau karakter,yaitu....
+A.Enter
+B.Space bar
+C.Ctrl
+D.Tab
+9.bagian dari keyboard yang berfungsi untuk mengunci keyboard dengan alfabet menjadi huruf kapital adalah....
+A.Num Lock
+B.Pause
+C.Home
+D.Caps  Lock
+10.Alat yang berfungsi sebagai pengarah dan pengeksekusi (pointer) adalah....
+A.Keyboard
+B.Mouse
+C.CPU
+D.Printer
+11.Peralatan tempat disket dipasang sering dinamakan dengan....
+A.Disk driver
+B.CPU
+C.Domain
+D.CD-room
+12.Bagian keyboard yang berfungsi untuk menghapus satu kakter/huruf disebelah kiri kusor dinamakan....
+A.Backspace
+B.Delete
+C.Pause
+D.Insert
+13.User atau pengguna komputer sering juga disebut dengan....
+A.Prgram
+B.Software
+C.Brainware
+D.Hardware
+14.Alat yang digunakan untuk mengeluarkan suara dari CPU adalah....
+A.Printer
+B.Keyboardu
+C.Mouse
+D.Speaker
+15.Alat yang digunakan untuk menyeimbangkan aliran yang dipakai untuk kelengkapan sebuah komputer adalah....
+A.Start
+B.Stavolt
+C.Regulator
+D.Speaker aktif

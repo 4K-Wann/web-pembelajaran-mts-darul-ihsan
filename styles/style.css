@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+				margin: 0PX;
+				padding: 0PX;
+				font-size: 17PX;
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			body 
+			{
+				background-image: url('../images/ricepaper_v3.PNG');
+			}
+			#wrapper
+			 {
+				width: 950px;
+				height: 650px;
+				margin: auto;
+			}
+			#wrapper #header 
+			{
+				height: 63px;
+				padding-top: 12px;
+				
+			}
+			#wrapper #header img 
+			{
+				width: 350px;
+				height: auto;
+			}
+			#wrapper #menu 
+			{
+				height: 36px;
+				background-color: #995E28;
+				padding-top: 12px;
+				padding-left:20px ;
+			}
+			#wrapper #menu ul 
+			{
+				list-style-type: none;
+			}
+
+			#wrapper #menu ul li 
+			{
+				float:  left;
+				margin-right: 30px;
+			}
+
+			#wrapper #menu ul li a 
+			{
+				font-size: 18px; 
+				color: #FCF11D; 
+				font-weight: bold;
+				text-decoration: none;
+			}
+
+			#wrapper #menu ul li a:hover
+			{
+				color: #FFFFC6;
+			}
+
+			#wrapper #content
+			{
+				height: 797px;
+				background-color: #FFFFCC;
+				padding: 20px;
+			}
+
+			#wrapper #content h2
+			{
+				font-size: 25px;
+				margin-bottom: 20px;
+			}
+
+			#wrapper #content p img
+			{
+				width: 250px;
+				height: auto;
+				float: left;
+				margin-right: 5px;
+				margin-bottom: 5px;
+			}
+
+			#wrapper #content p 
+			{
+				margin-bottom: 50px;
+				text-align: justify;
+			}
+
+			#wrapper #footer
+			{
+				height: 26px;
+				background-color: #280E04;
+				color: #FFFFFF;
+				padding-top: 14px;
+				padding-left: 20px;
+
+			}
